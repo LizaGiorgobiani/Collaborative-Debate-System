@@ -1,0 +1,152 @@
+[
+  {
+    "id": "math_01",
+    "category": "mathematical_reasoning",
+    "question": "In how many ways can you tile a 3×8 rectangle with 2×1 dominoes?",
+    "correct_answer": 153
+  },
+  {
+    "id": "math_02",
+    "category": "mathematical_reasoning",
+    "question": "How many 5-digit numbers have digits that are strictly increasing from left to right?",
+    "correct_answer": 126
+  },
+  {
+    "id": "math_03",
+    "category": "mathematical_reasoning",
+    "question": "What is the remainder when 7^2025 is divided by 100?",
+    "correct_answer": 43
+  },
+  {
+    "id": "math_04",
+    "category": "mathematical_reasoning",
+    "question": "How many subsets of {1,2,...,20} contain no two consecutive integers?",
+    "correct_answer": 17711
+  },
+  {
+    "id": "math_05",
+    "category": "mathematical_reasoning",
+    "question": "In how many ways can 10 identical balls be distributed into 4 distinct boxes with no box empty?",
+    "correct_answer": 84
+  },
+  {
+    "id": "math_06",
+    "category": "mathematical_reasoning",
+    "question": "How many positive divisors does 360 have?",
+    "correct_answer": 24
+  },
+  {
+    "id": "math_07",
+    "category": "mathematical_reasoning",
+    "question": "What is the number of onto functions from a 5-element set to a 3-element set?",
+    "correct_answer": 150
+  },
+  {
+    "id": "physics_01",
+    "category": "physics_science",
+    "question": "A ladder leans against a frictionless wall. If the ladder makes a 60° angle with the ground, what is the minimum coefficient of friction needed at the ground to prevent slipping?",
+    "correct_answer": 0.289
+  },
+  {
+    "id": "physics_02",
+    "category": "physics_science",
+    "question": "A block slides down a frictionless incline of height h. What is its speed at the bottom?",
+    "correct_answer": "sqrt(2gh)"
+  },
+  {
+    "id": "physics_03",
+    "category": "physics_science",
+    "question": "Two resistors of 4Ω and 6Ω are connected in parallel. What is the equivalent resistance?",
+    "correct_answer": 2.4
+  },
+  {
+    "id": "physics_04",
+    "category": "physics_science",
+    "question": "A projectile is launched at 45°. Ignoring air resistance, what is the ratio of maximum height to range?",
+    "correct_answer": 0.25
+  },
+  {
+    "id": "physics_05",
+    "category": "physics_science",
+    "question": "An ideal gas undergoes an isothermal expansion. What happens to its internal energy?",
+    "correct_answer": "remains_constant"
+  },
+  {
+    "id": "physics_06",
+    "category": "physics_science",
+    "question": "What is the escape velocity from Earth in terms of g and R?",
+    "correct_answer": "sqrt(2gR)"
+  },
+  {
+    "id": "logic_01",
+    "category": "logic_puzzle",
+    "question": "On an island of knights (truth-tellers) and knaves (liars), A says: 'B is a knave.' B says: 'A and I are of opposite types.' What is A?",
+    "correct_answer": "knight"
+  },
+  {
+    "id": "logic_02",
+    "category": "logic_puzzle",
+    "question": "Three boxes are labeled Apples, Oranges, and Apples & Oranges. All labels are wrong. What is the minimum number of boxes you must open to determine the correct labeling?",
+    "correct_answer": 1
+  },
+  {
+    "id": "logic_03",
+    "category": "logic_puzzle",
+    "question": "Five people sit in a row. A is not next to B. B is not next to C. C is not next to D. D is not next to E. How many valid seatings are there?",
+    "correct_answer": 48
+  },
+  {
+    "id": "logic_04",
+    "category": "logic_puzzle",
+    "question": "You have two hourglasses: one measures 7 minutes and the other 11 minutes. What is the minimum time needed to measure exactly 15 minutes?",
+    "correct_answer": 15
+  },
+  {
+    "id": "logic_05",
+    "category": "logic_puzzle",
+    "question": "A truth-teller says: 'Exactly one of us is a liar.' How many liars are there in the group?",
+    "correct_answer": 0
+  },
+  {
+    "id": "logic_06",
+    "category": "logic_puzzle",
+    "question": "A farmer has a fox, a goose, and beans. What is the minimum number of river crossings needed to transport all safely?",
+    "correct_answer": 7
+  },
+  {
+    "id": "game_01",
+    "category": "game_theory",
+    "question": "In a second-price sealed-bid auction, what is the dominant strategy for bidders?",
+    "correct_answer": "bid_true_value"
+  },
+  {
+    "id": "game_02",
+    "category": "game_theory",
+    "question": "In the Prisoner's Dilemma, what is the Nash equilibrium?",
+    "correct_answer": "both_defect"
+  },
+  {
+    "id": "game_03",
+    "category": "game_theory",
+    "question": "In a zero-sum game, what does the minimax theorem guarantee?",
+    "correct_answer": "existence_of_optimal_mixed_strategy"
+  },
+  {
+    "id": "game_04",
+    "category": "game_theory",
+    "question": "In matching pennies, what is the Nash equilibrium strategy for each player?",
+    "correct_answer": "50_50_randomization"
+  },
+  {
+    "id": "game_05",
+    "category": "game_theory",
+    "question": "In a game with strictly dominant strategies for all players, what is the outcome?",
+    "correct_answer": "unique_nash_equilibrium"
+  },
+  {
+    "id": "game_06",
+    "category": "game_theory",
+    "question": "In backward induction on a finite extensive-form game, what type of equilibrium is found?",
+    "correct_answer": "subgame_perfect_equilibrium"
+  }
+]

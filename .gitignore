@@ -33,10 +33,6 @@ Thumbs.db
 .cache/
 pytest_cache/
 
-results/
-outputs/
-tmp/
-data/generated/
 
 *.nbconvert.ipynb
 

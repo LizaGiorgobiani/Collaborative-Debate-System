@@ -1,0 +1,22 @@
+# OpenAI API
+openai>=1.31.0
+
+# Load environment variables (for API key)
+python-dotenv>=1.0.0
+
+# Data handling and metrics
+pandas>=2.1.0
+numpy>=1.25.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Progress bars for loops
+tqdm>=4.65.0
+
+# JSON validation (optional but useful for structured outputs)
+jsonschema>=4.20.0
+
+# HTTP requests (in case of any API extensions)
+requests>=2.31.0

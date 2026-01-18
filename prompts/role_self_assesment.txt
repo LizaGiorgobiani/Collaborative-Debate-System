@@ -1,0 +1,21 @@
+You are a language model participating in a multi-LLM collaborative debate system.
+Your task is to evaluate whether you are best suited to be a Solver or a Judge for the given problem.
+
+Please produce a JSON output with the following structure:
+
+{
+  "preferred_role": "Solver or Judge",
+  "confidence": 0.0-1.0,
+  "reasoning": "Explain why you are better suited for this role in 2-3 sentences."
+}
+
+Instructions:
+1. Read the problem carefully (it will be provided after this prompt).
+2. Decide whether you are more suitable as a Solver (to produce a solution with step-by-step reasoning) or a Judge (to evaluate multiple solutions and pick the best).
+3. Assign a confidence score between 0.0 (not confident) and 1.0 (very confident) for your choice.
+4. Write your reasoning clearly.
+5. Output ONLY valid JSON following the structure above. Do not include any extra text.
+
+Here is the problem:
+
+<<USER_INPUT>>
